@@ -15,11 +15,11 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minesweeper-game.git
+   git clone https://github.com/yaeliBL/minesweeper-game.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd Cake-Ninga
+    cd minesweeper-game
     ```
 ## Usage
 
@@ -28,9 +28,9 @@ Open the `game.html` file in your web browser to start playing.
 ## screenshots:
 
 ![Main Menu](screenshots/homePage.jpg)
-![Gameplay](screenshots/gameplay.png)
-![Winning Screen](screenshots/win-screen.png)
-![fail Screen](screenshots/fail-screen.png)
-![rules](screenshots/rules.png)
+![Gameplay](screenshots/gameplay.jpg)
+![Winning Screen](screenshots/win-screen.jpg)
+![fail Screen](screenshots/fail-screen.jpg)
+![rules](screenshots/rules.jpg)
 
 
